@@ -34,4 +34,3 @@ def find_max_value():
     print('\n', 'max is', max_value)
 
 # find_max_value()
-
